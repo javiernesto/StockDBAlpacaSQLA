@@ -1,0 +1,6 @@
+{
+  "database": "sqlite+pysqlite:///{}\\stock.db",
+  "API_KEY": "YourAPIKey",
+  "SECRET_KEY": "YourSecretKey",
+  "BASE_URL": "https://paper-api.alpaca.markets"
+}
